@@ -1,0 +1,54 @@
+[33mcommit eda9cff0f1e48aa72e296e5dd414d869b1fbbead[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ebb5af3 3426407
+Author: Abdelrahman Abogabal <abdoabogabal123@gmail.com>
+Date:   Wed Jun 12 22:13:32 2024 +0300
+
+    Merge branch 'feature-b'
+
+[33mcommit 3426407abf286ae438cbd74348c927ec81c088a3[m[33m ([m[1;32mfeature-b[m[33m)[m
+Author: Abdelrahman Abogabal <abdoabogabal123@gmail.com>
+Date:   Wed Jun 12 22:10:20 2024 +0300
+
+    added from feature b
+
+[33mcommit ebb5af3d3571ff12f7c262a31db6958a5658650d[m
+Author: Abdelrahman Abogabal <abdoabogabal123@gmail.com>
+Date:   Wed Jun 12 22:09:25 2024 +0300
+
+    making a conflict
+
+[33mcommit 20a5e64839ef9c524d8605a21947689c5f5a1e35[m[33m ([m[1;32mfeature-a[m[33m)[m
+Author: Abdelrahman Abogabal <abdoabogabal123@gmail.com>
+Date:   Wed Jun 12 21:52:11 2024 +0300
+
+    apply changes
+
+[33mcommit 57935497b50cbe62c09a19724d11bb8f6d8d5179[m[33m ([m[1;32mbranch1[m[33m)[m
+Author: AbdelrahmanAbogabal <abdoabogabal123@gmail.com>
+Date:   Wed Jun 12 14:43:23 2024 +0300
+
+    Add D File
+
+[33mcommit 4967314e1479b43cd3b76b9f80f3420b96701cd9[m
+Author: AbdelrahmanAbogabal <abdoabogabal123@gmail.com>
+Date:   Wed Jun 12 14:42:42 2024 +0300
+
+    aplly changes
+
+[33mcommit 9d8c921a594d5c4115d48ab357fc191911b809e7[m
+Author: AbdelrahmanAbogabal <abdoabogabal123@gmail.com>
+Date:   Wed Jun 12 14:42:01 2024 +0300
+
+    restore  c file
+
+[33mcommit 8b01f2966ffad37c034833c0fcc786e284c462a5[m
+Author: AbdelrahmanAbogabal <abdoabogabal123@gmail.com>
+Date:   Wed Jun 12 14:41:30 2024 +0300
+
+    delete c file
+
+[33mcommit 374bc95786b6b22d9ce295b4ea5a7659b10234dd[m
+Author: AbdelrahmanAbogabal <abdoabogabal123@gmail.com>
+Date:   Wed Jun 12 14:40:17 2024 +0300
+
+    Commit Files
